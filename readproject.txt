@@ -1,0 +1,11 @@
+Hello Team,
+
+I hope you are doing great in this pandemic time!
+
+Project Description:
+   Here, we got the project which has already done " Find out the largest value in 3 inputs" 
+ But we have to modify it to 'Find out the largets value in the n given numbers'
+
+Assigning it as 3 branchs.
+
+Will take the best of three
